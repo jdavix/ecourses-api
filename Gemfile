@@ -30,7 +30,7 @@ gem 'fast_jsonapi', '~> 1.5'
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 # gem 'rack-cors'
 
-gem 'kaminari', '~> 1.0.1'
+gem 'kaminari', '~> 1.2.1'
 
 gem 'carrierwave', '~> 2.0'
 
